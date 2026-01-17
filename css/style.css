@@ -33,6 +33,11 @@ main {
     border-radius: 30px;
 }
 
+img.pic {
+    max-width: 100%;
+    height: auto;
+}
+
 main a {
     color: black;
 }
