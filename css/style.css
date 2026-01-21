@@ -38,10 +38,19 @@ p {
     text-align: left;
 }
 
-img.pic {
+img {
     max-width: 100%;
     height: auto;
+    justify-content: center;
+    align-items: center;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 main a {
     color: black;
